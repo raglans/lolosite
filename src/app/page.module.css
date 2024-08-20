@@ -1,0 +1,33 @@
+.center {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+}
+
+.main {
+  margin: 0 10% 10% 10%;
+  background-color: #FFFF8F;
+}
+
+.title {
+  font-size: 80pt;
+  margin: 0;
+}
+
+.heading {
+  font-weight: 400;
+}
+
+.welcome {
+  justify-content: space-around;
+}
+
+.our_approach {
+  flex-direction: column;
+}
+
+.subtitle {
+  font-size: 32pt;
+  font-weight: 400;
+}
